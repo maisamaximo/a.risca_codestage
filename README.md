@@ -2,17 +2,18 @@
 # A.RISCA
 
 ### Desafio
-#### Como a tecnologia pode ampliar a presença feminina nas diversas etapas da indústria da música?
+#### Como a tecnologia pode ampliar a presenï¿½a feminina nas diversas etapas da indï¿½stria da mï¿½sica?
 
-Para encontrar alternativas para ampliar a presença da mulher na industria da música, fomos direto na fonte. Conversamos com artistas em 3 diferentes niveis de carreira para saber quais seus maiores problemas. 
-Amanda, cantora inciante; May, com a carreira em desenvolvimento e Alessandra, que já vive de música.
-Ao final, encontramos 5 principais questões em comuns a todas elas: assédio, preconceito, preparação (formação), network e emocional (autoconfiança).
-Então chegamos a conclusão.
-Nosso objetivo então foi criar uma ferramenta para que a mulher esteja preparada para lidar com estas questões quando for confrontada e possa ela mesma resolver seu problema
-Por isso criamos a A.Risca, primeira plataforma de mentoria dedicada às mulheres da industria da musica. 
-E quem recebe essas meninas é a Soni.A, uma robô inspirada em mulheres bem sucedidas, como Gloria Maria, Maju e a cantora Iza.
-Ao entrar na plataforma, Sonia interage com a usuaria. No caso aqui, ela quer saber como compor uma musica. A Sonia então, a encaminha para a Sofia, sua mentora especialista. 
-Na conversa, a mentora digital define objetivos e a partir daí recomenda conteúdos para ela. e num segundo momento, combina seus interesses com o outra garota fomentando a conexão entre elas.
-Mas se vc acha que a Sonia só ajuda a cantoras e compositoras, não não. Ela tem um time, um grupo completo para orientar as mulheres de todas as areas: x, y, z.
-Para viabilizar o projeto temos duas formas iniciais de monetização: Parceiros que fazem parte da rede de conteúdos recomendados e empresas que queiram consultar uma base de dados valiosa, como gravadoras, empresarios e marcas em busca um novo talento.
-A
+Para encontrar alternativas para ampliar a presenï¿½a da mulher na industria da mï¿½sica, fomos direto na fonte. Conversamos com artistas em 3 diferentes niveis de carreira para saber quais seus maiores problemas.
+Amanda, cantora inciante; May, com a carreira em desenvolvimento e Alessandra, que jï¿½ vive de mï¿½sica.
+Ao final, encontramos 5 principais questï¿½es em comuns a todas elas: assï¿½dio, preconceito, preparaï¿½ï¿½o (formaï¿½ï¿½o), network e emocional (autoconfianï¿½a).
+Entï¿½o chegamos a conclusï¿½o.
+Nosso objetivo entï¿½o foi criar uma ferramenta para que a mulher esteja preparada para lidar com estas questï¿½es quando for confrontada e possa ela mesma resolver seu problema
+Por isso criamos a A.Risca, primeira plataforma de mentoria dedicada ï¿½s mulheres da industria da musica.
+E quem recebe essas meninas ï¿½ a Soni.A, uma robï¿½ inspirada em mulheres bem sucedidas, como Gloria Maria, Maju e a cantora Iza.
+Ao entrar na plataforma, Sonia interage com a usuaria. No caso aqui, ela quer saber como compor uma musica. A Sonia entï¿½o, a encaminha para a Sofia, sua mentora especialista.
+Na conversa, a mentora digital define objetivos e a partir daï¿½ recomenda conteï¿½dos para ela. e num segundo momento, combina seus interesses com o outra garota fomentando a conexï¿½o entre elas.
+Mas se vc acha que a Sonia sï¿½ ajuda a cantoras e compositoras, nï¿½o nï¿½o. Ela tem um time, um grupo completo para orientar as mulheres de todas as areas: x, y, z.
+Para viabilizar o projeto temos duas formas iniciais de monetizaï¿½ï¿½o: Parceiros que fazem parte da rede de conteï¿½dos recomendados e empresas que queiram consultar uma base de dados valiosa, como gravadoras, empresarios e marcas em busca um novo talento.
+
+``` We â™¥ Code ```
